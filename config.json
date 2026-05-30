@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrtringify",
+        "uuid": 9205008,
+        "checksum": "244m7"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
